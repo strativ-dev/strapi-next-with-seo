@@ -99,3 +99,18 @@ This is an official seo plugin by strapi. For smaller project it is quite handy.
 
 ## Custom plugin
 A custom plugin is used to sync seo data named custom. This is only applicable for pages collections. 
+
+## Helpful links for seo
+
+###[Schema.org](https://www.schema.org)
+Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
+
+###[Google structured data gallery](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
+
+Google uses structured data to understand the content on the page and show that content in a richer appearance in search results, which is called a rich result. To make your site eligible for appearance as one of these rich results, follow the guide to learn how to implement structured data on your site. 
+
+###[Schema validator](https://developers.google.com/search/docs/appearance/structured-data)
+Google recommends that you start with the Rich Results Test to see what Google rich results can be generated for your page. For generic schema validation, use the Schema Markup Validator to test all types of schema.org markup, without Google-specific validation.
+
+###[Lighothouse api to check seo score](https://developers.google.com/speed/docs/insights/v5/get-started)
+The PageSpeed Insights API returns real-world data from the Chrome User Experience Report and lab data from Lighthouse.
