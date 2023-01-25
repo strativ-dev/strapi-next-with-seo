@@ -48,11 +48,11 @@ Pages are controlled by strapi backend.
 
 ## Seo Plugins
 
-###[Next Seo](https://github.com/garmeeh/next-seo)
+### [Next Seo](https://github.com/garmeeh/next-seo)
 It is an open sourced plugin and had  many features like structured data and seo components support. It has also support for custom props. To add more context, these components already has some predefined props for each component. But sometimes we need to pass additional field which are supported by [Schema.org](https://schema.org). Most of the components has support for this. There are also some minor bugs I faced in some schema, like previously [BreadcrumbJsonLD](https://github.com/garmeeh/next-seo#breadcrumb) has a bug that it doesn't accept additional props. On that scenario I had to add that script manually using `dangerouslyInnerHtml`. But if anyone faces this type of issues, he/she can post bug as issue on their repo. This package is well managed and they respond quite fast.
 
 ## Backend
-####Introduction
+#### Introduction
 This is demo project made with strapi 4.
 
 ## How To Use
