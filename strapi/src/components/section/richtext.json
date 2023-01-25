@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_section_richtexts",
+  "info": {
+    "displayName": "Richtext"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "customField",
+      "options": {
+        "preset": "rich"
+      },
+      "customField": "plugin::ckeditor.CKEditor"
+    }
+  }
+}

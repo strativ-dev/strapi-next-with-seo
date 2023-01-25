@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_acordion_defaults",
+  "info": {
+    "displayName": "Default"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "richtext": {
+      "type": "customField",
+      "options": {
+        "preset": "rich"
+      },
+      "customField": "plugin::ckeditor.CKEditor"
+    }
+  }
+}

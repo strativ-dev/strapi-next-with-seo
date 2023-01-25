@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_section_accordions",
+  "info": {
+    "displayName": "Accordions",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "accordion": {
+      "type": "component",
+      "repeatable": true,
+      "component": "acordion.default"
+    },
+    "richtext": {
+      "type": "customField",
+      "options": {
+        "preset": "rich"
+      },
+      "customField": "plugin::ckeditor.CKEditor"
+    }
+  }
+}

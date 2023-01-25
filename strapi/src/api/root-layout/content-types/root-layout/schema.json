@@ -1,0 +1,51 @@
+{
+  "kind": "singleType",
+  "collectionName": "root_layouts",
+  "info": {
+    "singularName": "root-layout",
+    "pluralName": "root-layouts",
+    "displayName": "RootLayout",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "navbar": {
+      "type": "component",
+      "repeatable": false,
+      "component": "layout.navbar"
+    },
+    "hostName": {
+      "type": "string"
+    },
+    "organizationName": {
+      "type": "string"
+    },
+    "organizationLogo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "organizationSlogan": {
+      "type": "text"
+    },
+    "slogan": {
+      "type": "string"
+    }
+  }
+}

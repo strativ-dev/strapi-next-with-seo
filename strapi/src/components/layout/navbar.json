@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_navbars",
+  "info": {
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "navlinks": {
+      "displayName": "Navlink",
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.navlink"
+    }
+  }
+}
